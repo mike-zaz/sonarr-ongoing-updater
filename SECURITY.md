@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Please don't open a public issue for a security problem. Report it privately on the repository's [Security tab](https://github.com/25LioN52/sonarr-ongoing-updater/security/advisories/new) instead.
+Please don't open a public issue for a security problem. Report it privately on the repository's [Security tab](https://github.com/mike-zaz/sonarr-ongoing-updater/security/advisories/new) instead.
 
 Fixes go into the latest version only, published as the `latest` image tag.
 
