@@ -17,7 +17,7 @@ Remove API keys, passwords, bot tokens and private tracker links from the log be
 The service uses only the Python standard library, so all you need is Python 3 (the image uses 3.12).
 
 ```bash
-git clone https://github.com/25LioN52/sonarr-ongoing-updater.git
+git clone https://github.com/mike-zaz/sonarr-ongoing-updater.git
 cd sonarr-ongoing-updater
 python3 -m unittest discover -s tests -v
 ```
@@ -57,4 +57,4 @@ git tag v1.3.0
 git push origin v1.3.0
 ```
 
-The workflow then publishes `ghcr.io/25lion52/sonarr-ongoing-updater:1.3.0`.
+The workflow then publishes `ghcr.io/mike-zaz/sonarr-ongoing-updater:1.3.0`.

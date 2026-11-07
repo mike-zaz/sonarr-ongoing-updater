@@ -1,6 +1,6 @@
 # sonarr-ongoing-updater
 
-[![Tests and Docker image](https://github.com/25LioN52/sonarr-ongoing-updater/actions/workflows/docker.yml/badge.svg)](https://github.com/25LioN52/sonarr-ongoing-updater/actions/workflows/docker.yml)
+[![Tests and Docker image](https://github.com/mike-zaz/sonarr-ongoing-updater/actions/workflows/docker.yml/badge.svg)](https://github.com/mike-zaz/sonarr-ongoing-updater/actions/workflows/docker.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Downloads new episodes of airing shows when a tracker publishes the whole season as one torrent and updates that torrent with every new episode. Announces each new episode in Telegram through the same bot Seerr uses.

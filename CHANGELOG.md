@@ -17,5 +17,5 @@ First version published on GitHub.
 - A Telegram message with poster and "Open in Seerr" button for every new episode of an airing season.
 - Docker image for `amd64` and `arm64`, published to GitHub Container Registry.
 
-[Unreleased]: https://github.com/25LioN52/sonarr-ongoing-updater/compare/v1.2.0...HEAD
-[1.2.0]: https://github.com/25LioN52/sonarr-ongoing-updater/releases/tag/v1.2.0
+[Unreleased]: https://github.com/mike-zaz/sonarr-ongoing-updater/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/mike-zaz/sonarr-ongoing-updater/releases/tag/v1.2.0
